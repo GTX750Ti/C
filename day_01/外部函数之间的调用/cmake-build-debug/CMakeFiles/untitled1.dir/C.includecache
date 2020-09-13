@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Program/Clion/day02/add.h
+
+/cygdrive/d/Program/Clion/day02/main.c
+stdio.h
+-
+add.h
+/cygdrive/d/Program/Clion/day02/add.h
+
